@@ -1,0 +1,11 @@
+body {
+  background: #343485;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+canvas {
+  border: solid .2em #6b3d3d;
+  height: 90vh;
+}
